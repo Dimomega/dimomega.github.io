@@ -1,0 +1,80 @@
+h1 {
+    color: red;
+}
+
+body {
+    background-image: url("https://purposebuiltsoftware.com/wp-content/uploads/2016/12/web-dev-student-illustration-Feature_1290x688_MS1.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.button1 {
+
+    padding: 10px 15px;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border: 2px solid black;
+    position: absolute;
+    left: 35px;
+}
+
+.button2 {
+
+    padding: 10px 15px;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border: 2px solid black;
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+}
+
+.button3 {
+
+    padding: 10px 15px;
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border: 2px solid black;
+    position: absolute;
+    left: 150px;
+
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+    border: 2px solid black;
+    Position:  relative;
+    left: 500px;
+}
+
+#logo {
+    border-radius: 12px;
+}
+
+.button1 {
+    border-radius: 12px;
+}
+
+.button2 {
+    border-radius: 12px;
+}
+
+.button3 {
+    border-radius: 12px;
+}
